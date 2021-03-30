@@ -13,13 +13,16 @@ Date: 30-03-2021
 With this session(s) you shall get the sneak peak of Git methodology. 
 Goals:
 1. Show how to start using Git
-2. 
+2. Showcase managing project documentation with Git
+3. Give a sneak peak of releases (tags) and workflow
 
-Audience: People intrested in learning Git
+Audience: People intrested in learning Git and those who failed to start using it
 
 ### Links
-1. [Documentation](Documentation.md)
-
+1. [How to start](How_to_Start.md)
+2. [Documentation](Documentation.md)
+3. [Git Tags](Git_Tags.md)
+4. [Git Workflow](Git_Workflow.md)
 
 
 ## Credits
