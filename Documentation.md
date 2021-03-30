@@ -5,6 +5,12 @@ In Git(Hub) generally you have two options:
 
 You can also use some 3rd Party tool for documentation such as [Mkdocs](https://www.mkdocs.org/) with [Material theme](https://squidfunk.github.io/mkdocs-material/)
 
+**Table of Content**
+1. [README.md](#readme)
+2. [Markdown Quick Tips](#markdown-quick-tips)
+3. [Wiki](#wiki)
+
+
 ## README
 [About README.md by github](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
 
@@ -20,7 +26,7 @@ READMEs generally **follow one format** in order to immediately orient developer
 - **Credits**: Include a section for credits in order to highlight and link to the authors of your project.
 - **License**: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
 
-## Markdown Quick tips
+## Markdown Quick Tips
 ### Basic formatting
 - headers
 - bold
